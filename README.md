@@ -1,5 +1,8 @@
 # KaraagePosting
 
+[![Build Status](https://travis-ci.org/tossh0095/karaage_posting.svg?branch=master)](https://travis-ci.org/tossh0095/karaage_posting)
+[![Coverage Status](https://coveralls.io/repos/tossh0095/karaage_posting/badge.svg?branch=master&service=github)](https://coveralls.io/github/tossh0095/karaage_posting?branch=master)
+
 唐揚げポスティングとは
 ## 動機
 [このスライド](http://www.slideshare.net/moririring/karaage-click)に触発されて、唐揚げログを取得せねばならないと思い作成したrubygemsです。
