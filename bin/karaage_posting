@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "karaage_posting"
+
+KaraagePosting::CLI.start
